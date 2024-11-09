@@ -22,3 +22,6 @@ Tomato disease app repository contains a Streamlit-based application for detecti
 Or
 
 Download files to local envinroment and run **app2models.py** by locating models which are inside this file.
+## Demo GIF
+
+![Demo Video](assets/demo.gif)
