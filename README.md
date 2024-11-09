@@ -2,9 +2,9 @@
 # Tomato Leaf Disease Detection
 **Navigate to Tomato disease app folder for testing the model**
 
-#other two folders contain training programs for svm and cnn
+#Other two folders contain training programs for svm and cnn
 
-This repository contains a Streamlit-based application for detecting diseases in tomato leaves using two models:
+Tomato disease app repository contains a Streamlit-based application for detecting diseases in tomato leaves using two models:
 1. A Convolutional Neural Network (CNN)
 2. A Support Vector Machine (SVM)
 
