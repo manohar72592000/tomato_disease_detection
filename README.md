@@ -24,4 +24,8 @@ Or
 Download files to local envinroment and run **app2models.py** by locating models which are inside this file.
 ## Demo GIF
 
-![Demo Video](assets/demo.gif)
+
+https://github.com/user-attachments/assets/22e9bfe7-6db0-4059-8207-0c562bac8202
+
+
+
