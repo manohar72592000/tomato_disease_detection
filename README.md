@@ -1,4 +1,4 @@
-# tomato_disease_detection
+# tomato_disease_detection_using_svm_cnn
 # Tomato Leaf Disease Detection
 **Navigate to Tomato disease app folder**
 
